@@ -430,7 +430,7 @@ nav .list ul li a:hover{
     padding: 0;
 
 }
-.footer .explore h2, .address h2{
+.footer .explore h2, .address h2, .bottom-logo h2{
     color: white;
     border-bottom: 1px solid orange;
 }
